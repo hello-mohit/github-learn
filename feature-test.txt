@@ -1,2 +1,3 @@
 Hello feature test please commit again after changes.
 Difference between merge and rebase.
+Result
